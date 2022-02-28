@@ -1,12 +1,5 @@
+### Finished? It'll never be finished. A battle isn't like some stupid argument. As long as someone's still breathing, the fight isn't over   
+  -Zaraki Kenpachi
+
 <img src="https://media.giphy.com/media/M1oPO3TchPJS/giphy.gif" width="500px" height="250px"/> 
-<details><summary>CLICK ME</summary>
-<p>
 
-#### We can hide anything, even code!
-
-    ```ruby
-      puts "Hello World"
-    ```
-
-</p>
-</details>
