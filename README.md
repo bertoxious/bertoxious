@@ -4,8 +4,12 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Ashish+Uniyal!;" />
 </h1>
 <div align="center">
-[![AWS Certified Developer Associate](https://images.credly.com/size/120x120/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png)](https://www.credly.com/badges/9da8bf39-8233-43bf-812f-aa6592e37a5b/public_url)
- </div>
+    <a href="https://www.credly.com/badges/9da8bf39-8233-43bf-812f-aa6592e37a5b/public_url" target="_blank">
+        <img src="https://images.credly.com/size/120x120/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png" />
+    </a>
+  </a>
+<!-- [![AWS Certified Developer Associate](https://images.credly.com/size/120x120/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png)](https://www.credly.com/badges/9da8bf39-8233-43bf-812f-aa6592e37a5b/public_url) -->
+</div>
 <h3 align="center">A passionate software developer from India 🇮🇳</h3>
 
 <br/>
@@ -29,7 +33,7 @@
   </a>
 <!--   <a href="https://salesp07.github.io" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
-<!--   </a> --> -->
+<!--   </a> --> 
 </div>
 
  <hr/>
