@@ -65,24 +65,157 @@
 </h2>
 
 <hr/>
-
-<!--<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/bertoxious/bertoxious/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
-</div>
-
-<hr/>
-</!-->
-
-
-
-<br/><br/>
-
-<hr/>
-
+<h2 align="center">🚢 Languages 🛫</h2>
+<br/>
+<table align="center">
+    <tr>
+        <td align="center">
+            <img src="https://skillicons.dev/icons?i=java" />
+        </td>
+        <td align="center">
+            <img src="https://skillicons.dev/icons?i=py" />
+        </td>
+        <td align="center">
+            <img src="https://skillicons.dev/icons?i=js" />
+        </td>
+        <td align="center">
+            <img src="https://skillicons.dev/icons?i=html" />
+        </td>
+        <td align="center">
+            <img src="https://skillicons.dev/icons?i=css" />
+        </td>
+    </tr>
+</table>
 <br/>
 
+<h2 align="center">🚢 Frameworks & tools 🛫</h2>
+<br/>
+<table align="center">
+    <tr>
+        <td align="center">
+            <img src="https://skillicons.dev/icons?i=aws" />
+        </td>
+        <td align="center">
+            <img src="https://skillicons.dev/icons?i=docker" />
+        </td>
+        <td align="center">
+            <img src="https://skillicons.dev/icons?i=kubernetes" />
+        </td>
+        <td align="center">
+            <img src="https://skillicons.dev/icons?i=bootstrap" />
+        </td>
+        <td align="center">
+            <img src="https://skillicons.dev/icons?i=mui" />
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <img src="https://skillicons.dev/icons?i=github" />
+        </td>
+        <td align="center">
+            <img src="https://skillicons.dev/icons?i=git" />
+        </td>
+        <td align="center">
+            <img src="https://skillicons.dev/icons?i=maven" />
+        </td>
+        <td align="center">
+            <img src="https://skillicons.dev/icons?i=gradle" />
+        </td>
+        <td align="center">
+            <img src="https://skillicons.dev/icons?i=jenkins" />
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <img src="https://skillicons.dev/icons?i=elasticsearch" />
+        </td>
+        <td align="center">
+            <img src="https://skillicons.dev/icons?i=nginx" />
+        </td>
+        <td align="center">
+            <img src="https://skillicons.dev/icons?i=npm" />
+        </td>
+        <td align="center">
+            <img src="https://skillicons.dev/icons?i=postman" />
+        </td>
+        <td align="center">
+            <img src="https://skillicons.dev/icons?i=redux" />
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <img src="https://skillicons.dev/icons?i=rabbitmq" />
+        </td>
+        <td align="center">
+            <img src="https://skillicons.dev/icons?i=kafka" />
+        </td>
+        <td align="center">
+            <img src="https://skillicons.dev/icons?i=nodejs" />
+        </td>
+        <td align="center">
+            <img src="https://skillicons.dev/icons?i=django" />
+        </td>
+        <td align="center">
+            <img src="https://skillicons.dev/icons?i=vite" />
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <img src="https://skillicons.dev/icons?i=vim" />
+        </td>
+    </tr>
+</table>
+<br/>
+
+<h2 align="center">🚢 Databases 🛫</h2>
+<br/>
+<table align="center">
+    <tr>
+        <td align="center">
+            <img src="https://skillicons.dev/icons?i=mongodb" />
+        </td>
+        <td align="center">
+            <img src="https://skillicons.dev/icons?i=postgres" />
+        </td>
+        <td align="center">
+            <img src="https://skillicons.dev/icons?i=dynamodb" />
+        </td>
+        <td align="center">
+            <img src="https://skillicons.dev/icons?i=mysql" />
+        </td>
+        <td align="center">
+            <img src="https://skillicons.dev/icons?i=hibernate" />
+        </td>
+        <td align="center">
+            <img src="https://skillicons.dev/icons?i=redis" />
+        </td>
+    </tr>
+</table>
+<br/>
+
+<h2 align="center">🚢 IDEs 🛫</h2>
+<br/>
+<table align="center">
+    <tr>
+        <td align="center">
+            <img src="https://skillicons.dev/icons?i=idea" />
+        </td>
+        <td align="center">
+            <img src="https://skillicons.dev/icons?i=vscode" />
+        </td>
+        <td align="center">
+            <img src="https://skillicons.dev/icons?i=pycharm" />
+        </td>
+        <td align="center">
+            <img src="https://skillicons.dev/icons?i=sublime" />
+        </td>
+        <td align="center">
+            <img src="https://skillicons.dev/icons?i=androidstudio" />
+        </td>
+        <td align="center">
+            <img src="https://skillicons.dev/icons?i=atom" />
+        </td>
+    </tr>
+</table>
+<br/>
 
