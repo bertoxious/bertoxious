@@ -205,12 +205,12 @@
 </h1>
 
 <div style="display: flex; align-items: center; justify-content: space-between;">
-    <div>
+    <div style="align-self: flex-start;">
         <a href="https://www.credly.com/badges/9da8bf39-8233-43bf-812f-aa6592e37a5b/public_url" target="_blank">
             <img src="https://images.credly.com/size/120x120/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png" />
         </a>
     </div>
-    <div style="margin-left: 20px; text-align: left;">
+    <div style="margin-left: 20px; text-align: left; align-self: flex-end;">
         <h3>A passionate software developer from India 🇮🇳</h3>
         <p>
             🔭 I’m currently working on creating ideas can help in creating yours too.
