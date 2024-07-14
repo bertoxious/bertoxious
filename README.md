@@ -8,7 +8,6 @@
         <img src="https://images.credly.com/size/120x120/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png" />
     </a>
   </a>
-<!-- [![AWS Certified Developer Associate](https://images.credly.com/size/120x120/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png)](https://www.credly.com/badges/9da8bf39-8233-43bf-812f-aa6592e37a5b/public_url) -->
 </div>
 <h3 align="center">A passionate software developer from India 🇮🇳</h3>
 
@@ -31,9 +30,6 @@
   <a href="https://www.linkedin.com/in/auniyal" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-<!--   <a href="https://salesp07.github.io" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
-<!--   </a> --> 
 </div>
 
  <hr/>
@@ -46,7 +42,7 @@
 <br/>
 <h2 align="center">⚒️ Frameworks & tools ⚒️</h2>
     <div align="center">
-        <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,bootstrap,mui,github,git,maven,gradle,jenkins,elasticsearch,nginx,npm,postman,redux,rabbitmq,kafka,nodejs,django,vite" />
+        <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,bootstrap,mui,github,git,maven,gradle,jenkins,elasticsearch,nginx,npm,postman,redux,rabbitmq,kafka,nodejs,django,vite,vim" />
     </div>
 </h2>
 <h2 align="center">⚒️ Databases ⚒️</h2>
@@ -56,7 +52,7 @@
 </h2>
 <h2 align="center">⚒️ IDEs ⚒️</h2>
     <div align="center">
-        <img src="https://skillicons.dev/icons?i=idea,vscode,pycharm,sublime,vim" />
+        <img src="https://skillicons.dev/icons?i=idea,vscode,pycharm,sublime,androidstudio,atom" />
     </div>
 </h2>
 
