@@ -3,7 +3,7 @@
 </h1>
 
 <div align="center">
-    <table style="border: none;">
+    <table style="border-collapse: collapse; border: none;">
         <tr style="border: none;">
             <td style="border: none;">
                 <a href="https://www.credly.com/badges/9da8bf39-8233-43bf-812f-aa6592e37a5b/public_url" target="_blank">
