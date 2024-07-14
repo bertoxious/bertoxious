@@ -2,4 +2,4 @@
 
 **_"Loyalty to someone is different from depending on them."_**   
                                              - _Zaraki Kenpachi_
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="e4f4c881-d895-40f3-8683-c161ae36a54f" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+[![AWS Certified Developer – Associate](https://images.credly.com/size/110x110/images/e4f4c881-d895-40f3-8683-c161ae36a54f.png)]([https://www.credly.com/badges/e4f4c881-d895-40f3-8683-c161ae36a54f/public_url](https://www.credly.com/badges/e4f4c881-d895-40f3-8683-c161ae36a54f/public_url))
