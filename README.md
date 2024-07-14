@@ -4,6 +4,8 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Ashish+Uniyal!;" />
 </h1>
 
+[![AWS Certified Developer Associate](https://images.credly.com/size/120x120/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png)](https://www.credly.com/badges/9da8bf39-8233-43bf-812f-aa6592e37a5b/public_url)
+ 
 <h3 align="center">A passionate software developer from India 🇮🇳</h3>
 
 <br/>
