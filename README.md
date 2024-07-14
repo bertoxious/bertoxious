@@ -3,9 +3,9 @@
 </h1>
 
 <div align="center">
-    <table>
-        <tr>
-            <td>
+    <table style="border: none;">
+        <tr style="border: none;">
+            <td style="border: none;">
                 <a href="https://www.credly.com/badges/9da8bf39-8233-43bf-812f-aa6592e37a5b/public_url" target="_blank">
                     <img src="https://images.credly.com/size/120x120/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png" />
                 </a>
