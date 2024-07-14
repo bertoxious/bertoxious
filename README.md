@@ -36,11 +36,11 @@
  
 <h2 align="center">⚒️ Languages ⚒️</h2>
 <br/>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=java,py,js,html,css" /><br>
-    <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,bootstrap,mui,github,git,maven,gradle,jenkins,elasticsearch,nginx,npm,postman,redux,rabbitmq,kafka,nodejs,django,vite,vim" /><br>
-    <img src="https://skillicons.dev/icons?i=mongodb,postgres,dynamodb,mysql,hibernate,redis" /><br>
-    <img src="https://skillicons.dev/icons?i=idea,vscode,pycharm,sublime,androidstudio,atom" /><br>
+<div>
+    <span>Languages :: <img src="https://skillicons.dev/icons?i=java,py,js,html,css" /><br></span>
+    <span>Framework & Tools :: <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,bootstrap,mui,github,git,maven,gradle,jenkins,elasticsearch,nginx,npm,postman,redux,rabbitmq,kafka,nodejs,django,vite,vim" /><br></span>
+    <span>Databases :: <img src="https://skillicons.dev/icons?i=mongodb,postgres,dynamodb,mysql,hibernate,redis" /><br></span>
+    <span>IDEs :: <img src="https://skillicons.dev/icons?i=idea,vscode,pycharm,sublime,androidstudio,atom" /><br></span>
 </div>
 <br/>
 <h2 align="center">⚒️ Frameworks & tools ⚒️</h2>
