@@ -2,4 +2,4 @@
 
 **_"Loyalty to someone is different from depending on them."_**   
                                              - _Zaraki Kenpachi_
-[![AWS Certified Developer – Associate]([https://images.credly.com/size/110x110/images/e4f4c881-d895-40f3-8683-c161ae36a54f.png](https://d1.awsstatic.com/training-and-certification/certification-badges/AWS-Certified-Developer-Associate_badge.5c083fa855fe82c1cf2d0c8b883c265ec72a17c0.png))]([https://www.credly.com/badges/e4f4c881-d895-40f3-8683-c161ae36a54f/public_url](https://www.credly.com/badges/e4f4c881-d895-40f3-8683-c161ae36a54f/public_url))
+[![AWS Certified Cloud Practitioner](https://images.credly.com/size/120x120/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png)](https://www.credly.com/badges/e8bfc40c-cc61-4307-8c29-84b57f5c931b/public_url)
