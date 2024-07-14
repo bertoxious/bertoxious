@@ -86,7 +86,7 @@
 <div align="center">
   <h2>🐍 Wanna Donate 🐍</h2>
   <br>
-  <img alt="Donate me for my ps5" src="https://drive.google.com/file/d/104oWjPD2vRn5kFuwjJDKcQnsRxiEakgp/view" />
+  <img alt="Donate me for my ps5" src="https://drive.google.com/file/d/104oWjPD2vRn5kFuwjJDKcQnsRxiEakgp" />
   
   <br/><br/><br/>
 </div>
