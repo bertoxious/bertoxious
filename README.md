@@ -3,22 +3,20 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Ashish+Uniyal!;" />
 </h1>
-
+<div align="center">
 [![AWS Certified Developer Associate](https://images.credly.com/size/120x120/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png)](https://www.credly.com/badges/9da8bf39-8233-43bf-812f-aa6592e37a5b/public_url)
- 
+ </div>
 <h3 align="center">A passionate software developer from India 🇮🇳</h3>
 
 <br/>
 
 <div align="center">
  
- 🔭 I’m currently working on **a marketplace**
+ 🔭 I’m currently working on creating ideas can help in creating yours too.
  
- 🌱 I’m currently learning **Docker, Supabase, AWS**
+ 🌱 A certified aws developer associate.
 
-💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/salesp07/salesp07/issues)**
-
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+💬 Ask me about **Java, SpringBoot, React... or anything [here](https://github.com/bertoxious/bertoxious/issues)**
 
  </div>
  
@@ -31,19 +29,33 @@
   </a>
 <!--   <a href="https://salesp07.github.io" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
-  </a> -->
+<!--   </a> --> -->
 </div>
 
  <hr/>
  
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<h2 align="center">⚒️ Languages ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /><br>
+    <img src="https://skillicons.dev/icons?i=java,py,js,html,css" /><br>
 </div>
-
 <br/>
+<h2 align="center">⚒️ Frameworks & tools ⚒️</h2>
+    <div align="center">
+        <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,bootstrap,mui,html,css,github,git,maven,gradle,jenkins,elasticsearch,nginx,npm,postman,redux,rabbitmq,kafka,vite,nodejs,django,vite" />
+    </div>
+</h2>
+<h2 align="center">⚒️ Databases ⚒️</h2>
+    <div align="center">
+        <img src="https://skillicons.dev/icons?i=mongodb,postgres,dynamodb,mysql,hibernate,redis" />
+    </div>
+</h2>
+<h2 align="center">⚒️ IDEs ⚒️</h2>
+    <div align="center">
+        <img src="https://skillicons.dev/icons?i=idea,vscode,pycharm,sublime,vim" />
+    </div>
+</h2>
+
 <hr/>
 
 <div align="center">
