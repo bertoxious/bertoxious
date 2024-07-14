@@ -46,7 +46,7 @@
 <br/>
 <h2 align="center">⚒️ Frameworks & tools ⚒️</h2>
     <div align="center">
-        <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,bootstrap,mui,html,css,github,git,maven,gradle,jenkins,elasticsearch,nginx,npm,postman,redux,rabbitmq,kafka,vite,nodejs,django,vite" />
+        <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,bootstrap,mui,github,git,maven,gradle,jenkins,elasticsearch,nginx,npm,postman,redux,rabbitmq,kafka,nodejs,django,vite" />
     </div>
 </h2>
 <h2 align="center">⚒️ Databases ⚒️</h2>
