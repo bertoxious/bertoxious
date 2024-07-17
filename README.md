@@ -49,19 +49,19 @@
 <br/>
 <table align="center">
     <tr>
-        <td align="center">
+        <td align="center" style="transition: background-color 0.3s;">
             <img src="https://skillicons.dev/icons?i=java" />
         </td>
-        <td align="center">
+        <td align="center" style="transition: background-color 0.3s;">
             <img src="https://skillicons.dev/icons?i=py" />
         </td>
-        <td align="center">
+        <td align="center" style="transition: background-color 0.3s;">
             <img src="https://skillicons.dev/icons?i=js" />
         </td>
-        <td align="center">
+        <td align="center" style="transition: background-color 0.3s;">
             <img src="https://skillicons.dev/icons?i=html" />
         </td>
-        <td align="center">
+        <td align="center" style="transition: background-color 0.3s;">
             <img src="https://skillicons.dev/icons?i=css" />
         </td>
     </tr>
