@@ -47,13 +47,6 @@
 <hr/>
 <h2 align="center">🚢 Languages 🛫</h2>
 <br/>
-<table align="center">
-    <tr>
-        <td align="center"     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Skill Icons</title>
-</head>
-<body>
     <table align="center">
         <tr>
             <td align="center" style="transition: background-color 0.3s;" onmouseover="this.style.backgroundColor='yellow';" onmouseout="this.style.backgroundColor='';" onmouseover="this.style.backgroundColor='yellow';" onmouseout="this.style.backgroundColor='';">
